@@ -21,13 +21,13 @@ Install the requirements using
 pip install -r requirements.txt
 ```
 
-## Run facerecognition integrated with greeting module 
+## Run face recognition integrated with greeting module 
 
 
 ### Face Recognition
-- Make known_faces direcotory
+- Create known_faces direcotory
 - Place a picture of yourself in the "known_faces" directory with your name.
-  For example, osama.jpg
+  For example, ayusee.jpg
 - In main directory
 ```shell
 cd /HCIR_PROJECT-MAIN
