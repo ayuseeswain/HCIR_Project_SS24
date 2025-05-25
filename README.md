@@ -39,12 +39,9 @@ pip install -r requirements.txt
 ### Face Recognition
 - Create a folder named known_faces in the main project directory.
 - Add an image of yourself to this folder with the filename as your name (e.g., ayusee.jpg).
-- In main directory
-```shell
-cd /HCIR_PROJECT-MAIN
-```
 - Run the module using the command
 ```shell
+cd /HCIR_PROJECT-MAIN
 python3 pepperassistance.py
 ```
 ### Speech Recognition
