@@ -1,4 +1,4 @@
-# HCIR_Project
+# EduPepper
 
 
 ### Cloning the repository
